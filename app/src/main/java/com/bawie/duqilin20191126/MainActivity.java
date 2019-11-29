@@ -36,6 +36,8 @@ public class MainActivity extends BaseActivity {
     //这是注释//这是注释
     //这是注释
     //这是注释
+    //这是注释
+    //这是注释
 
     @Override
     protected void inittData() {

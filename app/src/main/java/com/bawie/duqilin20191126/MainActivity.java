@@ -33,6 +33,7 @@ public class MainActivity extends BaseActivity {
     private ArrayList<Fragment> list = new ArrayList<>();
     private ArrayList<String> name = new ArrayList<>();
     private ImageView imageView;
+    //这是注释
 
     @Override
     protected void inittData() {
